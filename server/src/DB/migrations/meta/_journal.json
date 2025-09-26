@@ -8,6 +8,13 @@
       "when": 1756941935495,
       "tag": "0000_nervous_the_stranger",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1758749262831,
+      "tag": "0001_open_spiral",
+      "breakpoints": true
     }
   ]
 }
